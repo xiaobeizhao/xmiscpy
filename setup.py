@@ -43,9 +43,11 @@ config = {
   'url': 'https://github.com/xiaobeizhao/xmiscpy',
   'download_url': '',
   'install_requires': ['nose',
-                       'pandas',
-                       'tabulate',
-                       'matplotlib'
+                       'setuptools>=33.1.1',
+                       'numpy>=1.11.3',
+                       'pandas>=0.19.2',
+                       'tabulate>=0.7.5',
+                       'matplotlib>=2.0.0'
                        ]
 }
 

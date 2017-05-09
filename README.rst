@@ -32,6 +32,16 @@ Download and Install
 * `GitHub <https://github.com/xiaobeizhao/xmiscpy>`
 
   
+Dependencies
+------------
+* `nose <https://pypi.python.org/pypi/nose>`
+* `setuptools>=33.1.1 <https://pypi.python.org/pypi/setuptools/33.1.1>`
+* `numpy>=1.11.3 <https://pypi.python.org/pypi/numpy/1.11.3>`
+* `pandas>=0.19.2 <https://pypi.python.org/pypi/pandas/0.19.2>`
+* `tabulate>=0.7.5 <https://pypi.python.org/pypi/tabulate/0.7.5>`
+* `matplotlib>=2.0.0 <https://pypi.python.org/pypi/matplotlib/2.0.0>`
+
+  
 License
 -------
 Code and documentation are available according to the GNU LGPL License.
