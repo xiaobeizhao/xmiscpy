@@ -29,8 +29,9 @@ Run this script or paste it into a Python console.
    
 Download and Install
 --------------------
-.. __: https://github.com/xiaobeizhao/xmisc
+* `https://github.com/xiaobeizhao/xmiscpy <https://github.com/xiaobeizhao/xmiscpy>`
 
+  
 License
 -------
 Code and documentation are available according to the GNU LGPL License.
