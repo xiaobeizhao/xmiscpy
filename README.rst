@@ -29,7 +29,7 @@ Run this script or paste it into a Python console.
    
 Download and Install
 --------------------
-* `https://github.com/xiaobeizhao/xmiscpy <https://github.com/xiaobeizhao/xmiscpy>`
+* `GitHub <https://github.com/xiaobeizhao/xmiscpy>`
 
   
 License
