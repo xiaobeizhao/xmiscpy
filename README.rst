@@ -16,12 +16,17 @@ Example: "Hello World" in Xmisc
 
 Run this script or paste it into a Python console.
 
-.. image:: https://raw.githubusercontent.com/xiaobeizhao/xmiscpy/master/data/helloworld_demo.png
-  :target: 
-  :alt: Xmisc | Hello World
-  :align: left
 
+.. class:: no-web
 
+  .. image:: https://raw.githubusercontent.com/xiaobeizhao/xmiscpy/master/data/helloworld_demo.png
+    :alt: Xmisc | Hello World
+    :width: 100%
+    :align: center
+
+.. class:: no-web no-pdf
+
+   
 Download and Install
 --------------------
 .. __: https://github.com/xiaobeizhao/xmisc
