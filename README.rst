@@ -16,7 +16,7 @@ Example: "Hello World" in Xmisc
 
 Run this script or paste it into a Python console.
 
-.. image:: https://github.com/xiaobeizhao/xmisc/tree/master/data/helloworld_demo.png
+.. image:: https://raw.githubusercontent.com/xiaobeizhao/xmiscpy/master/data/helloworld_demo.png
   :target: 
   :alt: Xmisc | Hello World
   :align: left
